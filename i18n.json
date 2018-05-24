@@ -1,122 +1,142 @@
 {
-  "lan": ["cn", "en", "fr", "fa"],
-  "default": "cn",
+  "lan": ["cy", "cn", "en", "fr", "fa"],
+  "default": "cy",
   "data": {
     "title": {
+      "cy": "T E T R Y S",
       "cn": "俄罗斯方块",
       "en": "T E T R I S",
       "fr": "T E T R I S",
       "fa": "خانه سازی"
     },
     "github": {
+      "cy": "GitHub",
       "cn": "GitHub",
       "en": "GitHub",
       "fr": "GitHub",
       "fa": "گیت‌هاب"
     },
     "linkTitle": {
+      "cy": "Gweld ffynhonell data",
       "cn": "查看源代码",
       "en": "View data source",
       "fr": "Afficher la source des données",
       "fa": "مشاهده سورس پروژه"
     },
     "QRCode":{
+      "cy": "Cod QR",
       "cn": "二维码",
       "en": "QR code",
       "fr": "QR code",
       "fa": "کیوآر کد"
     },
     "titleCenter": {
+      "en": "TETRYS",
       "cn": "俄罗斯方块<br />TETRIS",
       "en": "TETRIS",
       "fr": "TETRIS",
       "fa": "خانه سازی"
     },
     "point": {
+      "cy": "Sgôr",
       "cn": "得分",
       "en": "Point",
       "fr": "Score",
       "fa": "امتیاز"
     },
     "highestScore": {
+      "cy": "Uchaf",
       "cn": "最高分",
       "en": "Max",
       "fr": "Max",
       "fa": "حداکثر"
     },
     "lastRound": {
+      "cy": "Rownd Olaf",
       "cn": "上轮得分",
       "en": "Last Round",
       "fr": "Dernier Tour",
       "fa": "آخرین دور"
     },
     "cleans": {
+      "cy": "Rhesi",
       "cn": "消除行",
       "en": "Cleans",
       "fr": "Lignes",
       "fa": "پاک کرد"
     },
     "level": {
+      "cy": "Lefel",
       "cn": "级别",
       "en": "Level",
       "fr": "Difficulté",
       "fa": "سطح"
     },
     "startLine": {
+      "cy": "Llinell Cychwynnol",
       "cn": "起始行",
       "en": "Start Line",
       "fr": "Ligne Départ",
       "fa": "خط شروع"
     },
     "next": {
+      "cy": "Nesaf",
       "cn": "下一个",
       "en": "Next",
       "fr": "Prochain",
       "fa": "بعدی"
     },
     "pause": {
+      "cy": "Rhewi",
       "cn": "暂停",
       "en": "Pause",
       "fr": "Pause",
       "fa": "مکث"
     },
     "sound": {
+      "cy": "Sain",
       "cn": "音效",
       "en": "Sound",
       "fr": "Sonore",
       "fa": "صدا"
     },
     "reset": {
+      "cy": "Ailosod",
       "cn": "重玩",
       "en": "Reset",
       "fr": "Réinitialiser",
       "fa": "ریست"
     },
     "rotation": {
+      "cy": "Cylchdro",
       "cn": "旋转",
       "en": "Rotation",
       "fr": "Rotation",
       "fa": "چرخش"
     },
     "left": {
+      "cy": "Chwith",
       "cn": "左移",
       "en": "Left",
       "fr": "Gauche",
       "fa": "چپ"
     },
     "right": {
+      "cy": "De",
       "cn": "右移",
       "en": "Right",
       "fr": "Droite",
       "fa": "راست"
     },
     "down": {
+      "cy": "I lawr",
       "cn": "下移",
       "en": "Down",
       "fr": "Bas",
       "fa": "پایین"
     },
     "drop": {
+      "cy": "Gollwng",
       "cn": "掉落",
       "en": "Drop",
       "fr": "Tomber",
