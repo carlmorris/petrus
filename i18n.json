@@ -3,7 +3,7 @@
   "default": "cy",
   "data": {
     "title": {
-      "cy": "T E T R Y S",
+      "cy": "P E T R U S",
       "cn": "俄罗斯方块",
       "en": "T E T R I S",
       "fr": "T E T R I S",
@@ -31,7 +31,7 @@
       "fa": "کیوآر کد"
     },
     "titleCenter": {
-      "en": "TETRYS",
+      "en": "PETRUS",
       "cn": "俄罗斯方块<br />TETRIS",
       "en": "TETRIS",
       "fr": "TETRIS",
@@ -73,7 +73,7 @@
       "fa": "سطح"
     },
     "startLine": {
-      "cy": "Llinell Cychwynnol",
+      "cy": "Dechrau o",
       "cn": "起始行",
       "en": "Start Line",
       "fr": "Ligne Départ",
@@ -101,14 +101,14 @@
       "fa": "صدا"
     },
     "reset": {
-      "cy": "Ailosod",
+      "cy": "Ailddechrau",
       "cn": "重玩",
       "en": "Reset",
       "fr": "Réinitialiser",
       "fa": "ریست"
     },
     "rotation": {
-      "cy": "Cylchdro",
+      "cy": "Cylchdroi",
       "cn": "旋转",
       "en": "Rotation",
       "fr": "Rotation",
