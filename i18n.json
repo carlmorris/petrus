@@ -4,6 +4,8 @@
   "data": {
     "title": {
       "cy": "P E T R U S",
+      "kw": "",
+      "br": "",
       "cn": "俄罗斯方块",
       "en": "T E T R I S",
       "fr": "T E T R I S",
@@ -11,6 +13,8 @@
     },
     "titleCenter": {
       "en": "PETRUS",
+      "kw": "",
+      "br": "",
       "cn": "俄罗斯方块<br />TETRIS",
       "en": "TETRIS",
       "fr": "TETRIS",
@@ -18,6 +22,8 @@
     },
     "point": {
       "cy": "Sgôr",
+      "kw": "",
+      "br": "",
       "cn": "得分",
       "en": "Point",
       "fr": "Score",
@@ -25,6 +31,8 @@
     },
     "highestScore": {
       "cy": "Uchaf",
+      "kw": "",
+      "br": "",
       "cn": "最高分",
       "en": "Max",
       "fr": "Max",
@@ -32,6 +40,8 @@
     },
     "lastRound": {
       "cy": "Rownd Olaf",
+      "kw": "",
+      "br": "",
       "cn": "上轮得分",
       "en": "Last Round",
       "fr": "Dernier Tour",
@@ -39,6 +49,8 @@
     },
     "cleans": {
       "cy": "Rhesi",
+      "kw": "",
+      "br": "",
       "cn": "消除行",
       "en": "Cleans",
       "fr": "Lignes",
@@ -46,6 +58,8 @@
     },
     "level": {
       "cy": "Lefel",
+      "kw": "",
+      "br": "",
       "cn": "级别",
       "en": "Level",
       "fr": "Difficulté",
@@ -53,6 +67,8 @@
     },
     "startLine": {
       "cy": "Dechrau o",
+      "kw": "",
+      "br": "",
       "cn": "起始行",
       "en": "Start Line",
       "fr": "Ligne Départ",
@@ -60,6 +76,8 @@
     },
     "next": {
       "cy": "Nesaf",
+      "kw": "",
+      "br": "",
       "cn": "下一个",
       "en": "Next",
       "fr": "Prochain",
@@ -67,6 +85,8 @@
     },
     "pause": {
       "cy": "Rhewi",
+      "kw": "",
+      "br": "",
       "cn": "暂停",
       "en": "Pause",
       "fr": "Pause",
@@ -74,6 +94,8 @@
     },
     "sound": {
       "cy": "Sain",
+      "kw": "",
+      "br": "",
       "cn": "音效",
       "en": "Sound",
       "fr": "Sonore",
@@ -81,6 +103,8 @@
     },
     "reset": {
       "cy": "Gadael gêm",
+      "kw": "",
+      "br": "",
       "cn": "重玩",
       "en": "Reset",
       "fr": "Réinitialiser",
@@ -88,6 +112,8 @@
     },
     "rotation": {
       "cy": "Troi",
+      "kw": "",
+      "br": "",
       "cn": "旋转",
       "en": "Rotation",
       "fr": "Rotation",
@@ -95,6 +121,8 @@
     },
     "left": {
       "cy": "Chwith",
+      "kw": "",
+      "br": "",
       "cn": "左移",
       "en": "Left",
       "fr": "Gauche",
@@ -102,6 +130,8 @@
     },
     "right": {
       "cy": "De",
+      "kw": "",
+      "br": "",
       "cn": "右移",
       "en": "Right",
       "fr": "Droite",
@@ -109,6 +139,8 @@
     },
     "down": {
       "cy": "I lawr",
+      "kw": "",
+      "br": "",
       "cn": "下移",
       "en": "Down",
       "fr": "Bas",
@@ -116,6 +148,8 @@
     },
     "drop": {
       "cy": "Gollwng",
+      "kw": "",
+      "br": "",
       "cn": "掉落",
       "en": "Drop",
       "fr": "Tomber",
