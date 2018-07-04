@@ -48,7 +48,7 @@ export default class Guide extends React.Component {
           </div>
         </div>
         <div className={`${style.guide} ${style.left}`}>
-          <div className={style.space}>BYLCHWR</div>
+          <div className={style.space}>_</div>
         </div>
         { null }
       </div>
