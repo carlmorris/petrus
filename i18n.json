@@ -4,7 +4,7 @@
   "data": {
     "title": {
       "cy": "P E T R U S",
-      "kw": "P E T R U S",
+      "kw": "P E S W A R",
       "br": "P E T R U S",
       "ga": "C E A T H A R",
       "cn": "俄罗斯方块",
@@ -14,7 +14,7 @@
     },
     "titleCenter": {
       "en": "PETRUS",
-      "kw": "",
+      "kw": "PESWAR",
       "br": "",
       "ga": "CEATHAR",
       "cn": "俄罗斯方块<br />TETRIS",
@@ -24,17 +24,17 @@
     },
     "point": {
       "cy": "Sgôr",
-      "kw": "",
+      "kw": "Skor",
       "br": "",
       "ga": "Pointe",
       "cn": "得分",
-      "en": "Point",
+      "en": "Points",
       "fr": "Score",
       "fa": "امتیاز"
     },
     "highestScore": {
       "cy": "Uchaf",
-      "kw": "",
+      "kw": "Ughella",
       "br": "",
       "ga": "Uas",
       "cn": "最高分",
@@ -44,9 +44,9 @@
     },
     "lastRound": {
       "cy": "Rownd Olaf",
-      "kw": "",
+      "kw": "Diwettha Tro",
       "br": "",
-      "ga": "Babhta Deireannach",
+      "ga": "Babhta Deiridh",
       "cn": "上轮得分",
       "en": "Last Round",
       "fr": "Dernier Tour",
@@ -54,7 +54,7 @@
     },
     "cleans": {
       "cy": "Rhesi",
-      "kw": "",
+      "kw": "Linennow",
       "br": "",
       "ga": "Glanadh",
       "cn": "消除行",
@@ -64,7 +64,7 @@
     },
     "level": {
       "cy": "Lefel",
-      "kw": "",
+      "kw": "Nivel",
       "br": "",
       "ga": "Leibhéal",
       "cn": "级别",
@@ -74,7 +74,7 @@
     },
     "startLine": {
       "cy": "Dechrau o",
-      "kw": "",
+      "kw": "Dalleth orth",
       "br": "",
       "ga": "Líne Tosaigh",
       "cn": "起始行",
@@ -84,9 +84,9 @@
     },
     "next": {
       "cy": "Nesaf",
-      "kw": "",
+      "kw": "Nessa",
       "br": "",
-      "ga": "An Céad Bloc Eile",
+      "ga": "Céad Bloc Eile",
       "cn": "下一个",
       "en": "Next",
       "fr": "Prochain",
@@ -94,7 +94,7 @@
     },
     "pause": {
       "cy": "Rhewi",
-      "kw": "",
+      "kw": "Rewi",
       "br": "",
       "ga": "Sos",
       "cn": "暂停",
@@ -104,7 +104,7 @@
     },
     "sound": {
       "cy": "Sain",
-      "kw": "",
+      "kw": "Son",
       "br": "",
       "ga": "Fuaim",
       "cn": "音效",
@@ -114,7 +114,7 @@
     },
     "reset": {
       "cy": "Gadael gêm",
-      "kw": "",
+      "kw": "Gasa",
       "br": "",
       "ga": "Athshocrú",
       "cn": "重玩",
@@ -124,7 +124,7 @@
     },
     "rotation": {
       "cy": "Troi",
-      "kw": "",
+      "kw": "Trelya",
       "br": "",
       "ga": "Casadh",
       "cn": "旋转",
@@ -134,7 +134,7 @@
     },
     "left": {
       "cy": "Chwith",
-      "kw": "",
+      "kw": "Kledh",
       "br": "",
       "ga": "Clé",
       "cn": "左移",
@@ -144,7 +144,7 @@
     },
     "right": {
       "cy": "De",
-      "kw": "",
+      "kw": "Dyghow",
       "br": "",
       "ga": "Deis",
       "cn": "右移",
@@ -154,7 +154,7 @@
     },
     "down": {
       "cy": "I lawr",
-      "kw": "",
+      "kw": "Warnans",
       "br": "",
       "ga": "Síos",
       "cn": "下移",
@@ -164,7 +164,7 @@
     },
     "drop": {
       "cy": "Gollwng",
-      "kw": "",
+      "kw": "Kodha",
       "br": "",
       "ga": "Titim",
       "cn": "掉落",
